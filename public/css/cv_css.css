@@ -1,0 +1,100 @@
+/*mobile*/
+
+
+/*mobile*/
+
+@media only screen and (max-width: 767px) {
+    .imgcv img {
+        margin-top: 20px !important;
+        margin-left: 13.5%;
+    }
+    .name {
+        text-align: center;
+    }
+    .objective {
+        text-align: center;
+    }
+    .education {
+        text-align: center;
+    }
+    .experience {
+        text-align: center;
+    }
+    .skill {
+        text-align: center;
+    }
+    .skill ul>li {
+        list-style-type: none;
+    }
+    .skill ul {
+        padding: 0px;
+    }
+}
+
+
+/*desktop*/
+
+.cv .container {
+    width: 65%;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 1px 1px 1px 5px grey;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.cv .col-md-4 h2 {
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+.objective {
+    padding-bottom: 60px;
+}
+
+.objective p {
+    padding-bottom: 10px;
+}
+
+.education {
+    padding-bottom: 60px;
+}
+
+.experience .row {
+    padding-bottom: 60px;
+}
+
+.experience .td-exp {
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+.exp {
+    font-style: italic;
+}
+
+img {
+    border-radius: 50%;
+    width: 75%;
+    margin-left: 50px;
+}
+
+.cv .infomation {
+    padding-bottom: 60px;
+}
+
+.cv h2 {
+    color: #8a7873;
+}
+
+hr {
+    border-top: 2px dashed black;
+}
+
+p {
+    margin-bottom: 0px;
+}
+
+footer {
+    text-align: center;
+}
